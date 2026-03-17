@@ -13,9 +13,11 @@ int main(){
 int n;
 cout<<"Enter the size of array: "<<endl;
 cin>>n;
+int array[n];
 for(int i=0;i<n;i++){
     cin>>array[i];
 }
-int largest_element=largest_element(array,n);
-cout<<"Largest Element of the array is: "<<largest_element<<endl;
-retur
+int max_element=largest_element(array,n);
+cout<<"Largest Element of the array is: "<<max_element<<endl;
+return 0;
+}
