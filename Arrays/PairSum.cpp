@@ -1,3 +1,4 @@
+// Array/Vector is sorted in Ascending Order
 // Use 2 Pointer Approatch
 // Set start pointer on 0th index and Set end Pointer on last index.
 // Then compare st,end Sum to Target Value :
