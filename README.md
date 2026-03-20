@@ -8,7 +8,8 @@ To master Data Structures & Algorithms and become placement ready.
 ### Day 1 (Arrays)
 - Largest Element
 - Reverse Array
-- Majority Element
+### Day 2 (Arrays)
+- Pair Sum 
 
 ##  Topics Covered
 - Arrays 
