@@ -4,11 +4,11 @@
 - Traversal
 - Maximum/Minimum
 - Reverse Array
+- Pair Sum
 - Majority Element
 
 ##  Patterns
 - Brute Force
-- Hashing
 - Two Pointer
 
 ##  Complexity
