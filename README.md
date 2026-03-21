@@ -9,7 +9,9 @@ To master Data Structures & Algorithms and become placement ready.
 - Largest Element
 - Reverse Array
 ### Day 2 (Arrays)
-- Pair Sum 
+- Pair Sum
+### Day 3 (Arrays)
+- Remove dublicates from sorted array (LEETCODE 26)
 
 ##  Topics Covered
 - Arrays 
